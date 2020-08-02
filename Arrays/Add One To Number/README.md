@@ -7,7 +7,7 @@ This problem is good for brain stroming, initially seems really easy but, actual
 <strong>Thought Process: </strong>
 <ol>
 <li>Initially, I thought that its just addition of 1 to the last digit and thats all</li>
-<li>As I did that, and submited without giving it much thought, it turned out to be wrong. Now after careful consideration, I figured out a case of **[9,9,9]**</li>
+<li>As I did that, and submited without giving it much thought, it turned out to be wrong. Now after careful consideration, I figured out a case of [9,9,9]</li>
 <li>As I tried some random cases, I found out there is a concept of carry involved.</li>
 <li>So I ultimately reframed the question in my mind</li>
 </ol>
